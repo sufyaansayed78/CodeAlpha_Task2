@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Admin/Documents/CodeAlpha/Task2/mlruns/0/b1c2c4d611d94481b427f06a9d0ed59c/artifacts
+end_time: 1767564338985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1c2c4d611d94481b427f06a9d0ed59c
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767564338918
+status: 3
+tags: []
+user_id: Admin

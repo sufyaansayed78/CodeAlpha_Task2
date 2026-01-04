@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Admin/Documents/CodeAlpha/Task2/mlruns/0/9853838641254515908d58d711067cf8/artifacts
+end_time: 1767564486554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9853838641254515908d58d711067cf8
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767564486420
+status: 3
+tags: []
+user_id: Admin
