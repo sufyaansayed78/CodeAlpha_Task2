@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/Admin/Documents/CodeAlpha/Task3/mlruns/0/6d9d5f4dc7564a2faf5a21de42d753ba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d9d5f4dc7564a2faf5a21de42d753ba
+run_name: capable-auk-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767569470074
+status: 1
+tags: []
+user_id: Admin
